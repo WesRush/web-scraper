@@ -58,7 +58,7 @@ O script utiliza o serviço do SerpApi para realizar as buscas no Google de form
 
 Este scraper foi construído para buscar casas de repouso em Recife, mas sua verdadeira força está na sua flexibilidade. **Ele pode ser usado para buscar e guardar informações sobre qualquer coisa!**
 
-Para adaptá-lo para outra finalidade, basta modificar duas linhas no dicionário `params` dentro do código:
+Para adaptá-lo para outra finalidade, basta modificar duas linhas no dicionário `params` dentro do código e lembre-se de filtrar à sua necessidade:
 
 ```python
 params = {
